@@ -1,0 +1,34 @@
+---
+title: "Test Page"
+date: 2018-07-12T10:17:29Z
+---
+
+# Hello World
+
+This is my first hugo site, wooo!!
+
+```
+hugo_install="success"
+if [[ $hugo_install == "success" ]]; then
+  echo "Happy me"
+```
+
+bye!
+
+---
+title: "Test Page"
+date: 2018-07-12T10:17:29Z
+draft: false
+---
+
+# Hello World
+
+This is my first hugo site, wooo!!
+
+```
+hugo_install="success"
+if [[ $hugo_install == "success" ]]; then
+  echo "Happy me"
+```
+
+bye!

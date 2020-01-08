@@ -1,0 +1,34 @@
+baseURL = "https://invisiblearchitects.com"
+languageCode = "en-ie"
+title = "Invisible Architects shape the digital landscape"
+theme = "hello-friend-ng"
+enableGitinfo = true
+enableEmoji = true
+copyright = "Invisible Architects"
+
+[[menu.main]]
+    identifier = "services"
+    name       = "Services"
+    url        = "/services/"
+
+[[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about/"
+
+[[menu.main]]
+    identifier = "contact"
+    name       = "Contact"
+    url        = "/contact/"
+
+googleAnalytics = "UA-155593448-1"
+
+[privacy]
+  # Google Analytics privacy settings - https://gohugo.io/about/hugo-and-gdpr/index.html#googleanalytics
+  [privacy.googleAnalytics]
+    # set to true to disable service
+    disable = false
+    # set to true to meet General Data Protection Regulation (GDPR)
+    anonymizeIP = true
+    respectDoNotTrack = true
+    useSessionStorage = true

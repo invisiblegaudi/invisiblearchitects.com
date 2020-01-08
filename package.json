@@ -1,0 +1,24 @@
+{
+  "name": "invisiblearchitects.com",
+  "version": "1.0.0",
+  "description": "a static site built with hugo",
+  "main": "config.toml",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/invisiblegaudi/invisiblearchitects.com.git"
+  },
+  "keywords": [
+    "invisiblearchitects",
+    "static",
+    "hugo"
+  ],
+  "author": "gaudi@invisiblearchitects.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/invisiblegaudi/invisiblearchitects.com/issues"
+  },
+  "homepage": "https://github.com/invisiblegaudi/invisiblearchitects.com#readme"
+}
