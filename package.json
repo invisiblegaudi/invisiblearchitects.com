@@ -20,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/invisiblegaudi/invisiblearchitects.com/issues"
   },
-  "homepage": "https://github.com/invisiblegaudi/invisiblearchitects.com#readme"
+  "homepage": "https://github.com/invisiblegaudi/invisiblearchitects.com#readme",
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.18.3",
+    "eslint-plugin-react-hooks": "^1.7.0"
+  }
 }
