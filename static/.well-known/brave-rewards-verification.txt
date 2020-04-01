@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: invisiblearchitects.com
+Token: adc802b5fd913f03d4d9ff755aefd995f362e8ad29c44f052852a7f0094536c9
