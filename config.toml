@@ -2,9 +2,10 @@ baseURL = "https://invisiblearchitects.com"
 languageCode = "en-ie"
 title = "Invisible Architects shape the digital landscape"
 theme = "hello-friend-ng"
-enableGitinfo = true
+enableGitinfo = false
 enableEmoji = true
 copyright = "Invisible Architects"
+disableKinds = ['RSS']
 
 [[menu.main]]
     identifier = "services"
